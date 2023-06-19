@@ -1,5 +1,5 @@
 ### Hi there,  👋
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=I'm%20DongWoo%20Lee&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=I'm%20DongWoo%20Lee&fontSize=90)
 
 <!--내 자기소개 약간-->
 
@@ -70,4 +70,5 @@ Here are some ideas to get you started:
 -->
 
 
-<!--
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
