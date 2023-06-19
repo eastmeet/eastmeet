@@ -41,14 +41,14 @@
   
   <div>
     <h3>Etc</h3> 
-    <img src="https://img.shields.io/badge/IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+    <img src="https://img.shields.io/badge/IDEA-7D00FF?style=for-the-badge&logo=intellijidea&logoColor=white">
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
     <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white">
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
     <br>
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+    <img src="https://img.shields.io/badge/Git/Github-181717?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white">    
-    <img src="https://img.shields.io/badge/Git/Github-181717?style=for-the-badge&logo=github&logoColor=white">   
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">   
     
   </div>
