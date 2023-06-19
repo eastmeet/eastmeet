@@ -49,7 +49,7 @@
     <br>
     <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white">    
     <img src="https://img.shields.io/badge/Git/Github-181717?style=for-the-badge&logo=github&logoColor=white">   
-    <img src="https://img.shields.io/badge/Git/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">   
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">   
     
   </div>
   <br>
