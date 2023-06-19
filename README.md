@@ -1,9 +1,9 @@
 ### Hi there,  👋
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I'm%20DongWoo%20Lee&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=I'm%20DongWoo%20Lee&fontSize=90" />
 
-내 자기소개 약간
+<!--내 자기소개 약간-->
 
-### 📚 My Tech Stack is..
+## 📚 My Tech Stack is..
 <p align="right">
 🥇 I can make product.<br>
 🥈 I'm in interested in ~<br>
@@ -13,10 +13,10 @@
   
   <div align = "center">
     <h3>Back-end</h3>
-    <img src="https://img.shields.io/badge/java🥇-007396?style=for-the-badge&logo=java&logoColor=white"> 
+    <img src="https://img.shields.io/badge/JAVA🥇-007396?style=for-the-badge&logo=java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring🥇-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/SpringBoot🥇-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>  
-    <img src="https://img.shields.io/badge/thymeleaf🥇-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Thymeleaf🥇-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"> 
     <img src="https://img.shields.io/badge/Aws🥇-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
     <img src="https://img.shields.io/badge/Nginx🥇-009639?style=for-the-badge&logo=nginx&logoColor=white">
   </div>
@@ -41,12 +41,15 @@
   
   <div>
     <h3>Etc</h3> 
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/IEAD-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-    <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=ubuntu&logoColor=white">
-    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-    
+    <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white">
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white">    
+    <img src="https://img.shields.io/badge/Git/Github-181717?style=for-the-badge&logo=github&logoColor=white">   
+    <img src="https://img.shields.io/badge/Git/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">   
     
   </div>
   <br>
