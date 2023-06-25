@@ -5,7 +5,7 @@
 
 ## 📚 My Tech Stack is..
 <p align="right">
-🥇 I can make product.<br>
+🥇 I can make a product.<br>
 🥈 I'm interested in ~.<br>
 🥉 I know the basics. <br>
 </p>
