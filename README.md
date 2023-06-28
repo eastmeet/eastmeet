@@ -1,5 +1,5 @@
 ### Hi there,  👋
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=130&section=header&text=I'm%20Dongwoo%20Lee&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=130&section=header&text=I'm%20DongWoo%20Lee&fontSize=90)
 
 <!--내 자기소개 약간-->
 
